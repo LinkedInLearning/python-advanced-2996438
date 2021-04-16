@@ -1,4 +1,4 @@
-# KURSNAME
+# Python für Fortgeschrittene
 Dies ist das Repository für den LinkedIn Learning-Kurs "Python für Fortgeschrittene". Der vollständige Kurs ist bei [LinkedIn Learning] verfügbar.(https://de.linkedin.com/learning/python-fur-fortgeschrittene).
 [KURSBESCHREIBUNG]
 
